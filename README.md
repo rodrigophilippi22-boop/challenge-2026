@@ -1,3 +1,10 @@
+Nomes e RMs:
+Rodrigo Arantes da Silva Philippi - 557594
+Henrique Monteiro Khouri - 555572
+Juan Alberto Lenis Rodriguez - 559744
+Celso Fernando Ferrer Singh - 565643
+Kagio Miura Neto - 559212
+
 \# Challenge 2026 — Segurança Industrial e Visão Computacional
 
 
